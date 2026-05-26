@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../../../0 - Global/AppProject.Exceptions/AppProject.Exceptions.csproj" />
+    <ProjectReference Include="../../../0 - Global/AppProject.Resources/AppProject.Resources.csproj" />
+    <ProjectReference Include="../../../AppProject.Utils/AppProject.Utils.csproj" />
+    <ProjectReference Include="../../1.0 - Models/AppProject.Core.Models.General/AppProject.Core.Models.General.csproj" />
+    <ProjectReference Include="../../1.0 - Models/AppProject.Core.Models/AppProject.Core.Models.csproj" />
+    <ProjectReference Include="../../1.1 - Contracts/AppProject.Core.Contrats/AppProject.Core.Contrats.csproj" />
+  </ItemGroup>
+</Project>
