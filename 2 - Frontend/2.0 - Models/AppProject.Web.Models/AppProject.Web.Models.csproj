@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../../../0 - Global/AppProject.Models/AppProject.Models.csproj" />
+    <ProjectReference Include="../../../AppProject.Utils/AppProject.Utils.csproj" />
+  </ItemGroup>
+</Project>
