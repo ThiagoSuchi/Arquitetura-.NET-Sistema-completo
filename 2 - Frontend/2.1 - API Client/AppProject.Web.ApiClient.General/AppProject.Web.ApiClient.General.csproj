@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../../../AppProject.Utils/AppProject.Utils.csproj" />
+    <ProjectReference Include="../../2.0 - Models/AppProject.Web.Models.General/AppProject.Web.Models.General.csproj" />
+    <ProjectReference Include="../AppProject.Web.ApiClient/AppProject.Web.ApiClient.csproj" />
+  </ItemGroup>
+</Project>
