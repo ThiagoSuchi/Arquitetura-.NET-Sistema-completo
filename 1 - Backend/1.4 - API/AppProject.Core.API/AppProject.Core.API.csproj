@@ -2,7 +2,7 @@
   
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.27" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.7" />
   </ItemGroup>
   
   <ItemGroup>
@@ -16,6 +16,10 @@
     <ProjectReference Include="../../1.3 - Services/AppProject.Core.Services.General/AppProject.Core.Services.General.csproj" />
     <ProjectReference Include="../../1.3 - Services/AppProject.Core.Services/AppProject.Core.Services.csproj" />
     <ProjectReference Include="../AppProject.Core.Controllers.General/AppProject.Core.Controllers.General.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Bootstraps/" />
   </ItemGroup>
 
 </Project>
