@@ -5,4 +5,8 @@
     <ProjectReference Include="../../1.1 - Contracts/AppProject.Core.Contrats/AppProject.Core.Contrats.csproj" />
     <ProjectReference Include="../../1.3 - Services/AppProject.Core.Services.General/AppProject.Core.Services.General.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
 </Project>
